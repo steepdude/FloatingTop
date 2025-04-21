@@ -1,0 +1,74 @@
+# Игнорировать файлы IDE
+.idea/
+*.iml
+
+# Игнорировать файлы кеша PHP
+*.log
+*.tmp
+*.cache
+
+# Игнорировать каталог vendor/ (зависимости Composer)
+vendor/
+
+# Игнорировать системные файлы и каталоги
+.DS_Store
+Thumbs.db
+
+# Игнорировать временные файлы
+*.swp
+*.swo
+*.bak
+*.old
+
+# Игнорировать файлы, связанные с PHPStorm
+# /java_error_in_phpstorm_*.log
+# /ntuser.dat.LOG1
+# /ntuser.dat.LOG2
+# /ntuser.ini
+# и т.д.
+
+# Игнорировать личные каталоги, содержащиеся в выводе git status
+../../../.gitconfig
+../../../.jdks/
+../../../3D Objects/
+../../../AppData/
+../../../Contacts/
+../../../Desktop/
+../../../Downloads/
+../../../Favorites/
+../../../Links/
+../../../Music/
+../../../NTUSER.DAT
+../../../NTUSER.DAT*
+../../.849C9593-D756-4E56-8D6E-42412F2A707B
+../Discord.lnk
+../GitHub Desktop.lnk
+../HeidiSQL.lnk
+../MVPLoader.lnk
+../Microsoft Edge.lnk
+../Photoshop 2023.lnk
+../SkinChanger CS2.lnk
+"../TLauncher  \342\200\224 \320\272\320\276\320\277\320\270\321\217.lnk"
+../Telegram.lnk
+../Tendlex 2.0/
+../TestProject/
+../breadixpe.png
+../desktop.ini
+../i.webp
+../jei_1.12.2-4.15.0.268.jar
+../my-server.png
+../uTorrent Web.lnk
+"../\320\257\320\275\320\264\320\265\320\272\321\201 \320\234\321\203\320\267\321\213\320\272\320\260.lnk"
+../../Documents/
+../../Pictures/
+../../desktop.ini
+"../../\320\233\320\270\321\207\320\275\320\276\320\265 \321\205\321\200\320\260\320\275\320\270\320\273\320\270\321\211\320\265.lnk"
+"../../\320\255\321\202\320\276\321\202 \320\272\320\276\320\274\320\277\321\214\321\216\321\202\320\265\321\200 - \320\257\321\200\320\273\321\213\320\272.lnk"
+../../../Saved Games/
+../../../Searches/
+../../../Videos/
+../../../composer.json
+../../../composer.lock
+../../../java_error_in_phpstorm_*.log
+../../../ntuser.dat.LOG*
+../../../ntuser.ini
