@@ -1,0 +1,25 @@
+max.line.for.page: 5
+swith.page.cooldown: 0.35
+update.task: 20 #1 minute
+
+message:
+  button:
+    next.page: "§7> §eСледующая §7<"
+    previous.page: "§7> §eПредыдущая §7<"
+  page_format: "§eСтраница§7(§a{page}§7/§a{max.page}§7)"
+  line_format: "§7#{number} §a{username} §7- §a{progress}"
+  update_info: "§7(Обновляется каждую минуту)"
+top:
+  TestTop:
+    x: 0
+    y: 5
+    z: 0
+    world: "world"
+    title: " §r§b§lТестовый Топ"
+  KillerTop:
+    x: 5
+    y: 5
+    z: 0
+    world: "world"
+    title: " §r§c§lТоп Убийц"
+particle:
